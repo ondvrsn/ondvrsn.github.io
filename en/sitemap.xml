@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ondvrsn.xyz/categories/</loc>
+    <loc>https://ondvrsn.xyz/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -11,10 +11,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ondvrsn.xyz/categories/"
+                href="https://ondvrsn.xyz/en/categories/"
                 />
   </url><url>
-    <loc>https://ondvrsn.xyz/</loc>
+    <loc>https://ondvrsn.xyz/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -23,10 +23,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ondvrsn.xyz/"
+                href="https://ondvrsn.xyz/en/"
                 />
   </url><url>
-    <loc>https://ondvrsn.xyz/tags/</loc>
+    <loc>https://ondvrsn.xyz/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -35,7 +35,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ondvrsn.xyz/tags/"
+                href="https://ondvrsn.xyz/en/tags/"
                 />
   </url>
 </urlset>
