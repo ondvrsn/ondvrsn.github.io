@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ondvrsn.xyz</title>
-    <link>https://ondvrsn.xyz/categories/</link>
+    <link>https://ondvrsn.xyz/ko/categories/</link>
     <description>Recent content in Categories on ondvrsn.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://ondvrsn.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language>
+    <atom:link href="https://ondvrsn.xyz/ko/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
